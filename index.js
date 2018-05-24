@@ -1,1 +1,4 @@
 // Do stuff
+const f = () => {
+    
+}
